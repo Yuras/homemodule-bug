@@ -1,0 +1,7 @@
+*~
+.*.swp
+.cabal-sandbox/
+.stack-work/
+dist/
+cabal.sandbox.config
+cabal.project.local
